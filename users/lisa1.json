@@ -1,0 +1,16 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "liza",
+        "last": "edelstain"
+    },
+    "email": "lisa.jones56@example.com",
+    "username": "lisa1",
+    "location": {
+        "street": "Aeroport",
+        "city": "London",
+        "state": "Californiya",
+        "zip": "12345"
+    }
+}

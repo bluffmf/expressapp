@@ -1,0 +1,17 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "miss",
+    "first": "mary",
+    "last": "jones",
+    "full": "Mary Jones"
+  },
+  "email": "marry.jones56@example.com",
+  "username": "mary1",
+  "location": {
+    "street": "Zelena",
+    "city": "etrov",
+    "state": "Pyt",
+    "zip": "55555"
+  }
+}

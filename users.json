@@ -1,0 +1,42 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "alan",
+            "last": "walters"
+        },
+        "email": "alan.jones56@example.com",
+        "username": "alan1"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "miss",
+            "first": "liza",
+            "last": "edelstain"
+        },
+        "email": "lisa.jones56@example.com",
+        "username": "lisa1"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "miss",
+            "first": "mary",
+            "last": "jones"
+        },
+        "email": "marry.jones56@example.com",
+        "username": "mary1"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "tom",
+            "last": "cruse"
+        },
+        "email": "tom.jones56@example.com",
+        "username": "tom1"
+    }    
+]

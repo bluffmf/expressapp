@@ -1,0 +1,16 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "tom",
+        "last": "cruse"
+    },
+    "email": "tom.jones56@example.com",
+    "username": "tom1",
+    "location": {
+        "street": "Aeroport",
+        "city": "London",
+        "state": "Californiya",
+        "zip": "12345"
+    }
+}
