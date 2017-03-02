@@ -73,6 +73,10 @@ app.get('/users/by/:gender', function(req, res) {
 app.get('/error/:username', function(req, res) {
     res.status(404).send('No user named ' + req.params.username + ' found')
 })
+
+app.get('/favicon.*/', function(req, res) {
+    console.log(req.method, 'favicon')
+})
 //---------- Особые пользователи, Закачка json, для API
 
 
